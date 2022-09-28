@@ -1,9 +1,12 @@
+<h3 align="center">
+🎉 Welcome to Mighty IT Explorer 🎉
+</h3>
 <div align=center>
     <img width="200px" src="MightyITexplorer.png" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+CodeVisors+GitHub+Org.;Let's+Support+each+other;Start+Contributing+now"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F670&background=354BFF00&width=600&lines=Welcome+to+MightyITExplorer+GitHub+Organisation.;Let's+Support+each+other+and+grow+!;Start+Contributing+now+in+our+repositories." alt="Typing SVG" /></a>
 </p>
 
 <h2>📌 <ins>About Us</ins></h2>
@@ -83,5 +86,6 @@ We don't look for any monetory support while collabarating.
 [<img alt="Mighty IT Explorer | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:mightyitexplorer@gmail.com)
     [<img alt="Mighty IT Explorer | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/company/mighty-it-explorer/)
     [<img alt="Mighty IT Explorer | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/ExplorerMighty)
-    [<img alt="Mighty IT Explorer | Telegram" width="92px" src="https://images.indianexpress.com/2021/04/Telegram-Logo.jpg?w=389" />](https://t.me/ITexplorers)
+    [<img alt="Mighty IT Explorer | Telegram" width="105px" src="https://img.shields.io/badge/-Telegram-000000?logo=telegram&Color=0A66C2&style=flat-square" />](https://t.me/ITexplorers)
+    [<img alt="Mighty IT Explorer | Youtube" width="105px" src="https://img.shields.io/badge/-Youtube-000000?logo=youtube&Color=0A66C2&style=flat-square" />]([https://t.me/ITexplorers](https://www.youtube.com/channel/UCo7Jhf7YKHxcuy5wazm-xfg))
 </div>
