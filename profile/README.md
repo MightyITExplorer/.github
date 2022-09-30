@@ -11,7 +11,7 @@
 
 <h2>📌 <ins>About Us</ins></h2>
 <p>
-    ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>
+    ⭐ <b>3 A's</b> of our Community: Aim, Act and Achieve! <br>
     ⭐ We are an open <b>Learning Community</b> dedicated towards developers across the world! <br>
     ⭐ Get <b>Interview and Study Materials, Internship and Job Opportunities</b> for all at your mail. <b>Everything at FREE!</b>  <br>
 </p>
